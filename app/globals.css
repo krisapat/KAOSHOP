@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
 @import "tw-animate-css";
 
@@ -120,6 +121,7 @@
     @apply bg-background text-foreground;
   }
 }
+
 
 
 .sour-gummy-Sour_Gummy {
