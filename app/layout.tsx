@@ -18,9 +18,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <style>
-
-          @import url('https://fonts.googleapis.com/css2?family=Itim&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
-
+          @import url("https://fonts.googleapis.com/css2?family=Itim&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap");
         </style>
       </head>
       <body className="antialiased itim-regular">

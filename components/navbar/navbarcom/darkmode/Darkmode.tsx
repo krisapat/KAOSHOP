@@ -15,7 +15,7 @@ import {
 } from "@/components/ui/dropdown-menu"
 
 export function ModeToggle() {
-  const { setTheme, theme, resolvedTheme } = useTheme()
+  const { setTheme, theme } = useTheme()
   const [mounted, setMounted] = React.useState(false)
   const [open, setOpen] = useState(false)
 

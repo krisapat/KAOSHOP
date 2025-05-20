@@ -12,7 +12,7 @@ export default function SeachgameClient() {
   return (
     <div className="space-y-6">
       <FadeUpWhenVisible>
-        <h2 className="text-4xl font-semibold">รายการเกม</h2>
+        <h2 className="text-4xl font-semibold ">รายการเกม</h2>
       </FadeUpWhenVisible>
       <FadeUpWhenVisible>
         <Seachgame search={search} setSearch={setSearch} />

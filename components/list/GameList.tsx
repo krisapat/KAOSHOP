@@ -5,7 +5,6 @@ import Image from 'next/image'
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { X } from 'lucide-react'
-import { Dialog, DialogContent, DialogClose, DialogTitle } from "@/components/ui/dialog"
 import { games } from '@/utils/game'
 import FadeUpWhenVisible from '../animation/FadeUpWhenVisible'
 
